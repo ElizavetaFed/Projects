@@ -2,7 +2,7 @@ export default function NoProject({ handleCreate }) {
   return (
     <div className="mt-24 text-center w-2/3">
       <img
-        src="src/assets/no-projects.png"
+        src="/Logo.png"
         className="w-16 h-16 object-contain mx-auto"
         alt="No projects"
       />
